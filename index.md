@@ -11,4 +11,4 @@ Server MC Incomming
 ### Projects
 
 The Ongoing Projects
->[Wine Updater v0.1](https://github.com/TERMZJosh/Wine-Updater/blob/main/README.md)
+>[Wine Updater v0.0.1 Beta](https://github.com/TERMZJosh/Wine-Updater/blob/main/README.md)
